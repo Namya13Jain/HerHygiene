@@ -29,7 +29,7 @@ We have thought of implementing the following in future:
 
 ## *Some Glimpses of our App*
 
-<img src="https://user-images.githubusercontent.com/111240178/211194640-70044da7-687f-449e-bf51-c6ea0c194e79.jpg" width=30% height=50%> <img src="https://user-images.githubusercontent.com/111240178/211194649-46629f4c-7aac-4464-a899-4f9b2a30379c.jpg" width=30% height=50%>
+<img src="https://user-images.githubusercontent.com/111240178/211194640-70044da7-687f-449e-bf51-c6ea0c194e79.jpg" width=30% height=50%>   <img src="https://user-images.githubusercontent.com/111240178/211194649-46629f4c-7aac-4464-a899-4f9b2a30379c.jpg" width=30% height=50%>
 <img src="https://user-images.githubusercontent.com/111240178/211194654-5e054012-c0ee-45e1-87b7-2dcc93767884.jpg" width=30% height=50%>
 <img src="https://user-images.githubusercontent.com/111240178/211194664-1ed6ae36-c6c3-435a-adb9-d9ffb792b464.jpg" width=30% height=50%>
 <img src="https://user-images.githubusercontent.com/111240178/211194670-1427f349-1ce7-4b4c-9d59-8c77dcabcf02.jpg" width=30% height=50%>
